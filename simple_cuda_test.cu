@@ -4,6 +4,8 @@ to compile this code
   >> nvcc simple_cuda_test.cu -o cuda_test
 to profile execution speed
   >> nvprof cuda_test.exe
+  
+  runs in 456.87 us on my laptop with GeForce GT 745M
 
 */
 
